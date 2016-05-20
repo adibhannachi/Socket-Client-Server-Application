@@ -1,6 +1,7 @@
 /* 
 * The MIT License (MIT)
 * Copyright (c) 2014 Adib HANNACHI
+* adib.hannachi.tn@gmail.com 
 *           ------  Client  ------
 */
 #include <unistd.h>
