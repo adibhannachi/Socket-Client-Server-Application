@@ -1,6 +1,7 @@
 /* 
-* (c) 2014-2016 by Adib HANNACHI adib.hannachi.tn@gmail.com 
-* @ ENICarthage
+* The MIT License (MIT)
+* Copyright (c) 2014 Adib HANNACHI
+* adib.hannachi.tn@gmail.com 
 *           ------  Server  ------
 */
 #include <unistd.h>
