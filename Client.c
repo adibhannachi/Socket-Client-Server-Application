@@ -1,6 +1,6 @@
 /* 
-* (c) 2014-2016 by Adib HANNACHI  
-* @ ENICarthage
+* The MIT License (MIT)
+* Copyright (c) 2014 Adib HANNACHI
 *           ------  Client  ------
 */
 #include <unistd.h>
